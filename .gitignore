@@ -1,0 +1,18 @@
+# python
+__pycache__/
+.python
+.py
+.python-version
+venv/
+
+# vscode
+/.vscode
+
+# Django
+*.sqlite3
+*.db
+media/
+**/migrations
+!**/migrations/__init__.py
+
+
