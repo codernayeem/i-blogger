@@ -12,7 +12,5 @@ venv/
 *.sqlite3
 *.db
 media/
-**/migrations
+**/migrations/*
 !**/migrations/__init__.py
-
-
